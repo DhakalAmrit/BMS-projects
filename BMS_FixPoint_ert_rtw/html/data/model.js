@@ -1,0 +1,1 @@
+var modelInfo = {model:"BMS_FixPoint"};var modelHierarchy=[{model:"BMS_FixPoint",relativePath:"_internal.html",parent:"null"},];var AddCode = true;var ProtectedModel = false;
